@@ -1,4 +1,3 @@
-ICSE
+ICSE/ISC
 
-ISC/12
-Also did B.Com.
+I am MCP.
